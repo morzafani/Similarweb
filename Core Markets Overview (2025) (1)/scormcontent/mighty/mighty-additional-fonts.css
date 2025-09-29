@@ -1,0 +1,71 @@
+
+@font-face {
+  font-family: 'DM sans light';
+  src: url('../lib/fonts/ZLY7cggvzTXAlMHI-DMSans_18pt-Light.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DM sans medium';
+  src: url('../lib/fonts/ncR2nHwHhGEP2drD-DMSans_18pt-Medium.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  src: url('../lib/fonts/DMSans-BoldItalic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  src: url('../lib/fonts/DMSans-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  src: url('../lib/fonts/DMSans-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  src: url('../lib/fonts/DMSans-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Be Vietnam';
+  src: url('../lib/fonts/BeVietnam-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Be Vietnam';
+  src: url('../lib/fonts/BeVietnam-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Be Vietnam';
+  src: url('../lib/fonts/BeVietnam-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DM sans semibold';
+  src: url('../lib/fonts/4iNOuLm0pV7r4t-C-DMSans_18pt-SemiBold.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
